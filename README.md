@@ -1,5 +1,5 @@
 # Frontend Mentor - News homepage
-
+live preview : https://y39webdeveloper.github.io/News-homepage/
 ![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
