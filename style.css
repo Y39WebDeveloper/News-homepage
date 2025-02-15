@@ -37,8 +37,6 @@ header nav .logo img {
     height: 100%;
 }
 
-header nav .links {}
-
 header nav .links .nav-btn::before{
     content: "";
     position: absolute;
